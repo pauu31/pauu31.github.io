@@ -12,7 +12,7 @@ All the information on the web page is mainly divided into 2 div’s, the main a
 
 The main is the one that contains all the main content of the web page. It’s divided into 5 sections:
 -	Section-1: 
-The home section of the page. It only contains the avatar image and full name.
+The home section of the page. It only contains the avatar image, my full name, and a little description about myself.
 
 -	Section-2:
 In this second section, the studies completed so far and the ones I am currently taking appear. There’s a link in the name of the degree I am studying which redirects to the UdG website where all the information about this degree is explained.
